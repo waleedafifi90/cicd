@@ -6,6 +6,6 @@ describe('Testing Sum', () => {
   });
 
   it('multiply 5 * 5 to equal 25', () => {
-    expect(5 * 5).toBe(20)
+    expect(5 * 5).toBe(25)
   })
 })
